@@ -77,7 +77,7 @@ nav button{
     border-radius: 5px;
     background: #F08784;
     color: #FFF;
-    font-family: "Poppins-Medium";
+    font-family: 'Poppins';
     font-size: 24px;
     font-style: normal;
     font-weight: 400;
@@ -156,7 +156,7 @@ menu a:hover{
     height: auto;
     flex-shrink: 0;
     color: #1E2370;
-    font-family: 'Poppins', sans-serif; /* Replace 'Petala Pro' if unavailable */
+    font-family: 'PetalaPro-Black', sans-serif; /* Replace 'Petala Pro' if unavailable */
     font-size: 40px;
     font-style: normal;
     font-weight: 900;
@@ -182,7 +182,7 @@ menu a:hover{
     flex-shrink: 0;
     align-self: stretch;
     color: #1E2370;
-    font-family: 'Poppins-Medium';
+    font-family: 'Poppins';
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -201,7 +201,7 @@ menu a:hover{
     border-radius: 5px;
     border: 2px solid #F08784;
     background: #F08784;
-    font-family: 'Poppins-Medium';
+    font-family: 'Poppins';
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
@@ -220,7 +220,7 @@ menu a:hover{
     border-radius: 5px;
     border: 2px solid #F08784;
     background: #F08784;
-    font-family: 'Poppins-Medium';
+    font-family: 'Poppins';
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
@@ -252,7 +252,7 @@ menu a:hover{
     height: 51px;
     flex-shrink: 0;
     color: #1E2370;
-    font-family: "Petala Pro";
+    font-family: 'PetalaPro-Black';
     font-size: 40px;
     font-style: normal;
     font-weight: 900;
@@ -277,7 +277,7 @@ menu a:hover{
     height: 49px;
     align-self: stretch;
     color: #1E2370;
-    font-family: 'Poppins-Medium';
+    font-family: 'Poppins';
     font-size: 32px;
     font-style: normal;
     font-weight: 500;
@@ -292,7 +292,7 @@ menu a:hover{
     align-items: center;
     gap: 10px;
     color: #1E2370;
-    font-family: 'Poppins-Medium';
+    font-family: 'Poppins';
     font-size: 24px;
     font-style: normal;
     font-weight: 500;
@@ -320,7 +320,7 @@ menu a:hover{
     width: 413px;
     height: 154px;
     color: #1E2370;
-    font-family: "Petala Pro";
+    font-family: 'PetalaPro-Black';
     font-size: 64px;
     font-style: normal;
     font-weight: 900;
@@ -353,7 +353,7 @@ menu a:hover{
     background: #F08784;
     color: #FFF;
     text-align: center;
-    font-family: 'Poppins-Medium';
+    font-family: 'Poppins';
     font-size: 24px;
     font-style: normal;
     font-weight: 500;
@@ -372,7 +372,7 @@ menu a:hover{
     box-shadow: 4px -4px 11px 0px rgba(0, 0, 0, 0.25);
     color: #1E2370;
     text-align: center;
-    font-family: 'Poppins-Medium';
+    font-family: 'Poppins';
     font-size: 24px;
     font-style: normal;
     font-weight: 500;
@@ -391,7 +391,7 @@ menu a:hover{
     box-shadow: 4px -4px 11px 0px rgba(0, 0, 0, 0.25);
     color: #FFF;
     text-align: center;
-    font-family: 'Poppins-Medium';
+    font-family: 'Poppins';
     font-size: 24px;
     font-style: normal;
     font-weight: 500;
@@ -410,7 +410,7 @@ menu a:hover{
     box-shadow: 4px -4px 11px 0px rgba(0, 0, 0, 0.25);
     color: #1E2370;
     text-align: center;
-    font-family: 'Poppins-Medium';
+    font-family: 'Poppins';
     font-size: 24px;
     font-style: normal;
     font-weight: 500;
@@ -435,7 +435,7 @@ menu a:hover{
     height: 129px;
     flex-shrink: 0;
     color: #1E2370;
-    font-family: "Petala Pro";
+    font-family: 'PetalaPro-Black';
     font-size: 48px;
     font-style: normal;
     font-weight: 900;
@@ -465,7 +465,7 @@ menu a:hover{
     gap: 10px;
     flex-shrink: 0;
     color: #F08784;
-    font-family: "Petala Pro";
+    font-family: 'PetalaPro-Black';
     font-size: 24px;
     font-style: normal;
     font-weight: 900;
@@ -488,7 +488,7 @@ menu a:hover{
     align-items: flex-start;
     gap: 10px;
     color: #1E2370;
-    font-family: 'Poppins-Medium';
+    font-family: 'Poppins';
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
@@ -511,7 +511,7 @@ menu a:hover{
     gap: 10px;
     border-radius: 5px 5px 0px 0px;
     color: #F0AB35;
-    font-family: "Petala Pro";
+    font-family: 'PetalaPro-Black';
     font-size: 24px;
     font-style: normal;
     font-weight: 900;
@@ -534,7 +534,7 @@ menu a:hover{
     align-items: flex-start;
     gap: 10px;
     color: #1E2370;
-    font-family: 'Poppins-Medium';
+    font-family: 'Poppins';
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
@@ -568,7 +568,7 @@ menu a:hover{
     width: 734px;
     height: 89px;
     color: #1E2370;
-    font-family: "Petala Pro";
+    font-family: 'PetalaPro-Black';
     font-size: 48px;
     font-style: normal;
     font-weight: 900;
@@ -607,7 +607,7 @@ menu a:hover{
     width: 503px;
     height: 56px;
     color: #FFF;
-    font-family: 'Poppins-Medium';
+    font-family: 'Poppins';
     font-size: 24px;
     font-style: normal;
     font-weight: 400;
@@ -617,7 +617,7 @@ menu a:hover{
     width: auto;
     height: auto;
     color: #FFF;
-    font-family: 'Poppins-Medium';
+    font-family: 'Poppins';
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -650,7 +650,7 @@ menu a:hover{
     width: 503px;
     height: 56px;
     color: #1E2370;
-    font-family: 'Poppins-Medium';
+    font-family: 'Poppins';
     font-size: 24px;
     font-style: normal;
     font-weight: 400;
@@ -660,7 +660,7 @@ menu a:hover{
     width: auto;
     height: auto;
     color: #1E2370;
-    font-family: 'Poppins-Medium';
+    font-family: 'Poppins';
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -697,7 +697,7 @@ menu a:hover{
     width: 564px;
     height: 156px;
     color: #1E2370;
-    font-family: "Petala Pro";
+    font-family: 'PetalaPro-Black';
     font-size: 40px;
     font-style: normal;
     font-weight: 900;
@@ -746,7 +746,7 @@ menu a:hover{
 }
 .blockTelecharger h2{
     color: #1E2370;
-    font-family: "Petala Pro";
+    font-family: 'PetalaPro-Black';
     font-size: 40px;
     font-style: normal;
     font-weight: 900;
@@ -790,7 +790,7 @@ footer img{
 .liensContacts p{
     color: #1E2370;
     text-align: center;
-    font-family: 'Poppins-Medium';
+    font-family: 'Poppins';
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -824,7 +824,7 @@ footer img{
 .blockContact a{
     color: #1E2370;
     text-align: center;
-    font-family: 'Poppins-Medium';
+    font-family: 'Poppins';
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -919,7 +919,7 @@ footer img{
         height: auto;
         flex-shrink: 0;
         color: #1E2370;
-        font-family: "Petala Pro";
+        font-family: 'PetalaPro-Black';
         font-size: 32px;
         font-style: normal;
         font-weight: 900;
@@ -939,7 +939,7 @@ footer img{
         flex-shrink: 0;
         align-self: stretch;
         color: #1E2370;
-        font-family: 'Poppins-Medium';
+        font-family: 'Poppins';
         font-size: 14px;
         font-style: normal;
         font-weight: 400;
@@ -957,7 +957,7 @@ footer img{
         border: 1px solid #F08784;
         background: #F08784;
         color: #FFF;
-        font-family: 'Poppins-Medium';
+        font-family: 'Poppins';
         font-size: 14px;
         font-style: normal;
         font-weight: 500;
@@ -979,7 +979,7 @@ footer img{
         border: 1px solid #F08784;
         background: #F08784;
         color: #FFF;
-        font-family: 'Poppins-Medium';
+        font-family: 'Poppins';
         font-size: 14px;
         font-style: normal;
         font-weight: 500;
@@ -1008,7 +1008,7 @@ footer img{
         height: 85px;
         flex-shrink: 0;
         color: #1E2370;
-        font-family: "Petala Pro";
+        font-family: 'PetalaPro-Black';
         font-size: 32px;
         font-style: normal;
         font-weight: 900;
@@ -1037,7 +1037,7 @@ footer img{
         width: auto;
         height: auto;
         color: #1E2370;
-        font-family: 'Poppins-Medium';
+        font-family: 'Poppins';
         font-size: 24px;
         font-style: normal;
         font-weight: 500;
@@ -1051,7 +1051,7 @@ footer img{
         justify-content: center;
         align-items: center;
         color: #1E2370;
-        font-family: 'Poppins-Medium';
+        font-family: 'Poppins';
         font-size: 16px;
         font-style: normal;
         font-weight: 500;
@@ -1073,7 +1073,7 @@ footer img{
         height: 85px;
         flex-shrink: 0;
         color: #1E2370;
-        font-family: "Petala Pro";
+        font-family: 'PetalaPro-Black';
         font-size: 32px;
         font-style: normal;
         font-weight: 900;
@@ -1108,7 +1108,7 @@ footer img{
         background: #F08784;
         color: #FFF;
         text-align: center;
-        font-family: 'Poppins-Medium';
+        font-family: 'Poppins';
         font-size: 14px;
         font-style: normal;
         font-weight: 500;
@@ -1128,7 +1128,7 @@ footer img{
         box-shadow: 4px -4px 11px 0px rgba(0, 0, 0, 0.25);
         color: #1E2370;
         text-align: center;
-        font-family: 'Poppins-Medium';
+        font-family: 'Poppins';
         font-size: 14px;
         font-style: normal;
         font-weight: 500;
@@ -1148,7 +1148,7 @@ footer img{
         box-shadow: 4px -4px 11px 0px rgba(0, 0, 0, 0.25);
         color: #FFF;
         text-align: center;
-        font-family: 'Poppins-Medium';
+        font-family: 'Poppins';
         font-size: 14px;
         font-style: normal;
         font-weight: 500;
@@ -1168,7 +1168,7 @@ footer img{
         box-shadow: 4px -4px 11px 0px rgba(0, 0, 0, 0.25);
         color: #1E2370;
         text-align: center;
-        font-family: 'Poppins-Medium';
+        font-family: 'Poppins';
         font-size: 14px;
         font-style: normal;
         font-weight: 500;
@@ -1191,7 +1191,7 @@ footer img{
         height: 96px;
         flex-shrink: 0;
         color: #1E2370;
-        font-family: "Petala Pro";
+        font-family: 'PetalaPro-Black';
         font-size: 24px;
         font-style: normal;
         font-weight: 900;
@@ -1226,7 +1226,7 @@ footer img{
         gap: 10px;
         align-self: stretch;
         color: #F08784;
-        font-family: "Petala Pro";
+        font-family: 'PetalaPro-Black';
         font-size: 16px;
         font-style: normal;
         font-weight: 900;
@@ -1248,7 +1248,7 @@ footer img{
         gap: 10px;
         align-self: stretch;
         color: #1E2370;
-        font-family: 'Poppins-Medium';
+        font-family: 'Poppins';
         font-size: 12px;
         font-style: normal;
         font-weight: 500;
@@ -1273,7 +1273,7 @@ footer img{
         gap: 10px;
         align-self: stretch;
         color: #F0AB35;
-        font-family: "Petala Pro";
+        font-family: 'PetalaPro-Black';
         font-size: 16px;
         font-style: normal;
         font-weight: 900;
@@ -1295,7 +1295,7 @@ footer img{
         gap: 10px;
         align-self: stretch;
         color: #1E2370;
-        font-family: 'Poppins-Medium';
+        font-family: 'Poppins';
         font-size: 12px;
         font-style: normal;
         font-weight: 500;
@@ -1323,7 +1323,7 @@ footer img{
         width: 300px;
         height: 89px;
         color: #1E2370;
-        font-family: "PetalaPro-Black";
+        font-family: 'PetalaPro-Black';
         font-size: 32px;
         font-style: normal;
         font-weight: 400;
@@ -1366,7 +1366,7 @@ footer img{
         height: auto;
         color: #FFF;
         text-align: center;
-        font-family: "Poppins-Medium";
+        font-family: "Poppins";
         font-size: 16px;
         font-style: normal;
         font-weight: 400;
@@ -1376,7 +1376,7 @@ footer img{
         width: auto;
         height: auto;
         color: #FFF;
-        font-family: "Poppins-Medium";
+        font-family: "Poppins";
         font-size: 12px;
         font-style: normal;
         font-weight: 400;
@@ -1413,7 +1413,7 @@ footer img{
         flex-shrink: 0;
         color: #1E2370;
         text-align: center;
-        font-family: "Poppins-Medium";
+        font-family: "Poppins";
         font-size: 16px;
         font-style: normal;
         font-weight: 400;
@@ -1424,7 +1424,7 @@ footer img{
         height: auto;
         flex-shrink: 0;
         color: #1E2370;
-        font-family: "Poppins-Medium";
+        font-family: "Poppins";
         font-size: 12px;
         font-style: normal;
         font-weight: 400;
@@ -1458,7 +1458,7 @@ footer img{
         width: 300px;
         height: auto;
         color: #1E2370;
-        font-family: "Petala Pro";
+        font-family: 'PetalaPro-Black';
         font-size: 32px;
         font-style: normal;
         font-weight: 400;
@@ -1489,7 +1489,7 @@ footer img{
         gap: 10px;
     }   
     .Cta p{
-        font-family: "Poppins-Medium";
+        font-family: "Poppins";
         font-size: 16px;
         font-style: normal;
         font-weight: 200;
@@ -1509,7 +1509,7 @@ footer img{
         height: auto;
         flex-shrink: 0;
         color: #1E2370;
-        font-family: "Poppins-Medium";
+        font-family: "Poppins";
         font-size: 24px;
         font-style: normal;
         font-weight: 400;
@@ -1559,7 +1559,7 @@ footer img{
         color: #1E2370;
         width: auto;
         text-align: center;
-        font-family: 'Poppins-Medium';
+        font-family: 'Poppins';
         font-size: 14px;
         font-style: normal;
         font-weight: 400;
@@ -1599,7 +1599,7 @@ footer img{
         text-decoration: none;
         color: #1E2370;
         text-align: center;
-        font-family: Inter;
+        font-family: 'Poppins';
         font-size: 14px;
         font-style: normal;
         font-weight: 400;
