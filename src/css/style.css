@@ -92,11 +92,18 @@ nav button{
     border-radius: 5px;
     background: #F08784;
     color: #FFF;
-    font-family: "Petala Pro";
+    font-family: "Poppins-Medium";
     font-size: 24px;
     font-style: normal;
-    font-weight: 900;
+    font-weight: 400;
     line-height: normal;
+}
+nav a{
+    text-decoration: none;
+}
+nav button:hover{
+    background: #FFF;
+    color: #F08784;
 }
 menu{
     display: flex;
@@ -115,6 +122,9 @@ menu a{
     font-weight: 900;
     line-height: normal;
     text-decoration: none;
+}
+menu a:hover{
+    color: #F08784;
 }
 /* Burger */
 .burger-menu {
@@ -195,46 +205,43 @@ menu a{
 }
 .Btn-Asso{
     display: flex;
+    text-decoration: none;
+    color: #FFF;
+    width: 250px;
     padding: 13px 19px;
     justify-content: center;
     align-items: center;
     gap: 10px;
     flex-shrink: 0;
     border-radius: 5px;
-    border: 1px solid #F08784;
+    border: 2px solid #F08784;
     background: #F08784;
-    color: #FFF;
     font-family: Poppins;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
     line-height: normal;
-}
-.Btn-Asso:hover{
-    background: #FFF;
-    color: #F08784;
 }
 .Btn-Ets{
     display: flex;
+    text-decoration: none;
+    color: #FFF;
+    width: 250px;
     padding: 13px 19px;
     justify-content: center;
     align-items: center;
     gap: 10px;
     flex-shrink: 0;
     border-radius: 5px;
-    border: 1px solid #F08784;
+    border: 2px solid #F08784;
     background: #F08784;
-    color: #FFF;
     font-family: Poppins;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
     line-height: normal;
 }
-.Btn-Ets:hover{
-    background: #FFF;
-    color: #F08784;
-}
+
 .blockHero img{
     width: 490px;
     height: 377px;
