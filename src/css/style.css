@@ -857,6 +857,11 @@ footer img{
 }
 /* Responsive */
 @media (max-width: 1290px) {
+    *,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
     /* Header */
     menu {
         display: none;
