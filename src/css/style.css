@@ -7,14 +7,14 @@
 
 @font-face {
     font-family: 'PetalaPro-Black';
-    src: url('https://db.onlinewebfonts.com/c/bfffc344d2745723ea66bc2c45d062af?family=PetalaPro-Black') format('truetype');
+    src: url('Assets/Fonts/PetalaPro-Black.ttf') format('truetype'); /* Host locally */
     font-style: normal;
     font-weight: 900;
 }
 
 @font-face {
     font-family: 'Petala Pro';
-    src: url('https://db.onlinewebfonts.com/c/bfffc344d2745723ea66bc2c45d062af?family=PetalaPro') format('truetype');
+    src: url('Assets/Fonts/PetalaPro-Regular.ttf') format('truetype'); /* Host locally */
     font-style: normal;
     font-weight: 900;
 }
