@@ -1,4 +1,17 @@
 @font-face {
+    font-family: 'Poppins';
+    src: url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;900&display=swap');
+    font-style: normal;
+    font-weight: 400;
+}
+/* For Petala Pro, replace the URL below with the correct one if available online */
+@font-face {
+    font-family: 'Petala Pro';
+    src: url('href="https://db.onlinewebfonts.com/c/bfffc344d2745723ea66bc2c45d062af?family=PetalaPro-Black') format('truetype');
+    font-style: normal;
+    font-weight: 900;
+}
+@font-face {
     font-family: 'PetalaPro-Black';
     src: url('Assets/Fonts/PetalaPro-Black.ttf') format('ttf');
     font-weight: normal;
