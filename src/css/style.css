@@ -32,7 +32,6 @@ body {
     justify-content: flex-start; 
     align-items: stretch; 
     background-color: #FFF; 
-    font-family: 'Poppins', sans-serif;
     overflow-x: hidden; 
 }
 .jaune{
@@ -197,7 +196,7 @@ menu a:hover{
     flex-shrink: 0;
     align-self: stretch;
     color: #1E2370;
-    font-family: Poppins;
+    font-family: 'Poppins-Medium';
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -216,7 +215,7 @@ menu a:hover{
     border-radius: 5px;
     border: 2px solid #F08784;
     background: #F08784;
-    font-family: Poppins;
+    font-family: 'Poppins-Medium';
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
@@ -235,7 +234,7 @@ menu a:hover{
     border-radius: 5px;
     border: 2px solid #F08784;
     background: #F08784;
-    font-family: Poppins;
+    font-family: 'Poppins-Medium';
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
@@ -292,7 +291,7 @@ menu a:hover{
     height: 49px;
     align-self: stretch;
     color: #1E2370;
-    font-family: Poppins;
+    font-family: 'Poppins-Medium';
     font-size: 32px;
     font-style: normal;
     font-weight: 500;
@@ -307,7 +306,7 @@ menu a:hover{
     align-items: center;
     gap: 10px;
     color: #1E2370;
-    font-family: Poppins;
+    font-family: 'Poppins-Medium';
     font-size: 24px;
     font-style: normal;
     font-weight: 500;
@@ -368,7 +367,7 @@ menu a:hover{
     background: #F08784;
     color: #FFF;
     text-align: center;
-    font-family: Poppins;
+    font-family: 'Poppins-Medium';
     font-size: 24px;
     font-style: normal;
     font-weight: 500;
@@ -387,7 +386,7 @@ menu a:hover{
     box-shadow: 4px -4px 11px 0px rgba(0, 0, 0, 0.25);
     color: #1E2370;
     text-align: center;
-    font-family: Poppins;
+    font-family: 'Poppins-Medium';
     font-size: 24px;
     font-style: normal;
     font-weight: 500;
@@ -406,7 +405,7 @@ menu a:hover{
     box-shadow: 4px -4px 11px 0px rgba(0, 0, 0, 0.25);
     color: #FFF;
     text-align: center;
-    font-family: Poppins;
+    font-family: 'Poppins-Medium';
     font-size: 24px;
     font-style: normal;
     font-weight: 500;
@@ -425,7 +424,7 @@ menu a:hover{
     box-shadow: 4px -4px 11px 0px rgba(0, 0, 0, 0.25);
     color: #1E2370;
     text-align: center;
-    font-family: Poppins;
+    font-family: 'Poppins-Medium';
     font-size: 24px;
     font-style: normal;
     font-weight: 500;
@@ -503,7 +502,7 @@ menu a:hover{
     align-items: flex-start;
     gap: 10px;
     color: #1E2370;
-    font-family: Poppins;
+    font-family: 'Poppins-Medium';
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
@@ -549,7 +548,7 @@ menu a:hover{
     align-items: flex-start;
     gap: 10px;
     color: #1E2370;
-    font-family: Poppins;
+    font-family: 'Poppins-Medium';
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
@@ -622,7 +621,7 @@ menu a:hover{
     width: 503px;
     height: 56px;
     color: #FFF;
-    font-family: Poppins;
+    font-family: 'Poppins-Medium';
     font-size: 24px;
     font-style: normal;
     font-weight: 400;
@@ -632,7 +631,7 @@ menu a:hover{
     width: auto;
     height: auto;
     color: #FFF;
-    font-family: Poppins;
+    font-family: 'Poppins-Medium';
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -665,7 +664,7 @@ menu a:hover{
     width: 503px;
     height: 56px;
     color: #1E2370;
-    font-family: Poppins;
+    font-family: 'Poppins-Medium';
     font-size: 24px;
     font-style: normal;
     font-weight: 400;
@@ -675,7 +674,7 @@ menu a:hover{
     width: auto;
     height: auto;
     color: #1E2370;
-    font-family: Poppins;
+    font-family: 'Poppins-Medium';
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -805,7 +804,7 @@ footer img{
 .liensContacts p{
     color: #1E2370;
     text-align: center;
-    font-family: Poppins;
+    font-family: 'Poppins-Medium';
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -839,7 +838,7 @@ footer img{
 .blockContact a{
     color: #1E2370;
     text-align: center;
-    font-family: Poppins;
+    font-family: 'Poppins-Medium';
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -946,7 +945,7 @@ footer img{
         flex-shrink: 0;
         align-self: stretch;
         color: #1E2370;
-        font-family: Poppins;
+        font-family: 'Poppins-Medium';
         font-size: 14px;
         font-style: normal;
         font-weight: 400;
@@ -964,7 +963,7 @@ footer img{
         border: 1px solid #F08784;
         background: #F08784;
         color: #FFF;
-        font-family: Poppins;
+        font-family: 'Poppins-Medium';
         font-size: 14px;
         font-style: normal;
         font-weight: 500;
@@ -986,7 +985,7 @@ footer img{
         border: 1px solid #F08784;
         background: #F08784;
         color: #FFF;
-        font-family: Poppins;
+        font-family: 'Poppins-Medium';
         font-size: 14px;
         font-style: normal;
         font-weight: 500;
@@ -1044,7 +1043,7 @@ footer img{
         width: auto;
         height: auto;
         color: #1E2370;
-        font-family: Poppins;
+        font-family: 'Poppins-Medium';
         font-size: 24px;
         font-style: normal;
         font-weight: 500;
@@ -1058,7 +1057,7 @@ footer img{
         justify-content: center;
         align-items: center;
         color: #1E2370;
-        font-family: Poppins;
+        font-family: 'Poppins-Medium';
         font-size: 16px;
         font-style: normal;
         font-weight: 500;
@@ -1115,7 +1114,7 @@ footer img{
         background: #F08784;
         color: #FFF;
         text-align: center;
-        font-family: Poppins;
+        font-family: 'Poppins-Medium';
         font-size: 14px;
         font-style: normal;
         font-weight: 500;
@@ -1135,7 +1134,7 @@ footer img{
         box-shadow: 4px -4px 11px 0px rgba(0, 0, 0, 0.25);
         color: #1E2370;
         text-align: center;
-        font-family: Poppins;
+        font-family: 'Poppins-Medium';
         font-size: 14px;
         font-style: normal;
         font-weight: 500;
@@ -1155,7 +1154,7 @@ footer img{
         box-shadow: 4px -4px 11px 0px rgba(0, 0, 0, 0.25);
         color: #FFF;
         text-align: center;
-        font-family: Poppins;
+        font-family: 'Poppins-Medium';
         font-size: 14px;
         font-style: normal;
         font-weight: 500;
@@ -1175,7 +1174,7 @@ footer img{
         box-shadow: 4px -4px 11px 0px rgba(0, 0, 0, 0.25);
         color: #1E2370;
         text-align: center;
-        font-family: Poppins;
+        font-family: 'Poppins-Medium';
         font-size: 14px;
         font-style: normal;
         font-weight: 500;
@@ -1255,7 +1254,7 @@ footer img{
         gap: 10px;
         align-self: stretch;
         color: #1E2370;
-        font-family: Poppins;
+        font-family: 'Poppins-Medium';
         font-size: 12px;
         font-style: normal;
         font-weight: 500;
@@ -1302,7 +1301,7 @@ footer img{
         gap: 10px;
         align-self: stretch;
         color: #1E2370;
-        font-family: Poppins;
+        font-family: 'Poppins-Medium';
         font-size: 12px;
         font-style: normal;
         font-weight: 500;
@@ -1566,7 +1565,7 @@ footer img{
         color: #1E2370;
         width: auto;
         text-align: center;
-        font-family: Poppins;
+        font-family: 'Poppins-Medium';
         font-size: 14px;
         font-style: normal;
         font-weight: 400;
