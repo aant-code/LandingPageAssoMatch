@@ -858,10 +858,13 @@ footer img{
 /* Responsive */
 @media (max-width: 1290px) {
     *,
-*::before,
-*::after {
+    *::before,
+    *::after {
     box-sizing: border-box;
-}
+    }
+    body{
+        overflow-x: hidden; 
+    }
     /* Header */
     menu {
         display: none;
